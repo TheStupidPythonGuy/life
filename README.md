@@ -13,8 +13,8 @@ A simple lifetime expectancy calculator in Python.
 
 ## Installation
 
-1. Download the file and run **chmod +x /path/to/Life Expectancy Calculator.py** in your terminal.
-2. Run **./path/to/Life Expectancy Calculator.py**
+1. Download the file and run **chmod +x /path/to/Lifetime Expectancy Calculator.py** in your terminal.
+2. Run **./path/to/Lifetime Expectancy Calculator.py**
 
 ## License
 
